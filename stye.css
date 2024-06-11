@@ -1,0 +1,25 @@
+
+.container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+   align-items: center;
+}
+.box{
+    height: 60%;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   background-image: conic-gradient( #4986F1 32.5%
+   ,#7D3799 32.5% );
+}
+.circle{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    background-image: conic-gradient(#F6BB21
+    45deg 117deg,
+    #41AB4F 117deg);
+}
